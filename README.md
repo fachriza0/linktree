@@ -1,0 +1,1 @@
+- version 1 done, new style to be made, mobile optimization soon.
